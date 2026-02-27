@@ -1,6 +1,6 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
+# NAME: Collin Dillabough
 # DATE: 
 # BRIEF DESCRIPTION:  
 
@@ -15,8 +15,18 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+import random
 
+user_input = input('Would you like a compliment?')
 
+if user_input == 'yes':
+    print('You have wonderful eyes.')
+
+else:
+
+    print('No compliment for you!')
+
+print('Thank you for playing')
 
 
 
