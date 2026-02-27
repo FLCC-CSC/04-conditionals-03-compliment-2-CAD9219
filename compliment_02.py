@@ -26,7 +26,7 @@ else:
 
     print('No compliment for you!')
 
-print('Thank you for playing')
+print('Thank you for playing.')
 
 
 
@@ -80,7 +80,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+No not really.
 
 
 
